@@ -1,5 +1,5 @@
 module.exports ={
     api:{
-        baseURL:"http://localhost:5000"
+        baseURL:"https://backendg80-1.onrender.com"
     }
 }
